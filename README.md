@@ -16,8 +16,8 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 [![Downloads](https://img.shields.io/github/downloads/yakeing/php_jwsign/total.svg)](https://github.com/yakeing/php_jwsign)
 [![Size](https://img.shields.io/github/size/yakeing/php_jwsign/src/php_jwsign/jwsign.php.svg)](https://github.com/yakeing/php_jwsign)
 [![tag](https://img.shields.io/github/tag/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign)
-[![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/php_jwsign)
-[![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/License/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/php_jwsign)
+[![Language](https://oauth.applinzi.com/Badge/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/php_jwsign)
+[![License](https://oauth.applinzi.com/Badge/4D4D4D/License/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/php_jwsign)
 
 BY: [yakeing](http://weibo.com/yakeing)
 
