@@ -19,8 +19,6 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 [![Language](https://img.shields.io/github/license/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign/blob/master/LICENSE)
 [![Php](https://img.shields.io/github/languages/top/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign)
 
-BY: [yakeing](http://weibo.com/yakeing)
-
 ### Installation
 
 Use [Composer](https://getcomposer.org) to install the library.
