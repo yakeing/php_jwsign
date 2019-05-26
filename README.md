@@ -8,7 +8,7 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 
 ### Packagist
 
-[![Version](http://img.shields.io/packagist/v/yakeing/php_jwsign.svg)](https://packagist.org/packages/yakeing/php_jwsign/releases)
+[![Version](http://img.shields.io/packagist/v/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign/releases)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/php_jwsign.svg)](https://packagist.org/packages/yakeing/php_jwsign)
 
 ### Github
