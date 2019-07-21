@@ -2,7 +2,7 @@
 <phpunit bootstrap="./bootstrap.php" colors="true">
     <testsuites>
         <testsuite name="php_jwsign Test Suite">
-            <directory>./php_jwsignTest/</directory>
+            <directory suffix=".php">./php_jwsignTest</directory>
         </testsuite>
     </testsuites>
     <filter>
