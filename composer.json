@@ -12,8 +12,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "php_jwsign": "src/"
+        "psr-4": {
+            "php_jwsign\\": "src/"
         }
     },
     "require": {
