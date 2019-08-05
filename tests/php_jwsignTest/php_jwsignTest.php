@@ -17,7 +17,7 @@ class php_jwsignTest extends TestCase{
         }
     ');
     $privateFile = dirname(__FILE__).'/private.key';
-    //$this->assertTrue(is_file($privateFile));
+    $this->assertFileExists($privateFile);
     $accesskey = file_get_contents($privateFile);
     $jws = new jwsign();
     $jws->SetPrivate($accesskey);
