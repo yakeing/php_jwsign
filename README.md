@@ -1,6 +1,6 @@
 # Json Wed Sign (RSA)
 
-This is a function wrapping through the Openssl to sign and validate the data, which ensures the integrity and security of the original data.
+This is a function wrapping through the `Openssl` to sign and validate the data, which ensures the integrity and security of the original data.
 
 ### Travis CI badge
 
