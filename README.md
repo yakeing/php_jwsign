@@ -4,11 +4,11 @@ This is a function wrapping through the `Openssl` to sign and validate the data,
 
 ### Travis CI badge
 
-[![Travis-ci](https://api.travis-ci.com/yakeing/php_jwsign.svg?branch=master)](https://travis-ci.com/yakeing/php_jwsign)
+[![Travis-ci](https://api.travis-ci.com/yakeing/php_jwsign.svg?branch=main)](https://travis-ci.com/yakeing/php_jwsign)
 
 ### codecov badge
 
-[![codecov](https://codecov.io/gh/yakeing/php_jwsign/branch/master/graph/badge.svg)](https://codecov.io/gh/yakeing/php_jwsign)
+[![codecov](https://codecov.io/gh/yakeing/php_jwsign/branch/main/graph/badge.svg)](https://codecov.io/gh/yakeing/php_jwsign)
 
 ### Github badge
 
